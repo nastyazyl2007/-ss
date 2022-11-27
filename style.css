@@ -1,6 +1,6 @@
 h1{
     font-family:Verdana;
-    font-size: 19.2px;
+    font-size: 19.5px;
     font-weight:bold;
     text-align: center;
     background: white;
@@ -20,7 +20,7 @@ h2{
 }
 h3{
     font-family:Arial;
-    font-size: 17.6px;
+    font-size: 14.3px;
     font-style:italic;
     font-weight:600;
     text-align: center;
@@ -34,4 +34,16 @@ h3{
 p{
     font-family:Verdana;
     font-size: 0.8em;
+    text-indent: 3%;
+    text-align:justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+ul{
+    font-family:Arial;
+    font-size: 14.3px;
+    font-style:italic;
+    color: #25a561;
 }
